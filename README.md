@@ -1,6 +1,8 @@
 strikingly
 ==========
 
+My last submit:
+
     {
         "message" => "Thank You! Please copy and paste this JSON to README.md on your github",
         "userId" => "davidqhr@gmail.com",
@@ -17,6 +19,3 @@ strikingly
             "dateTime" => "Fri Aug 30 2013 18:43:48 GMT+0000 (UTC)"
         }
     }
-
-
-strikingly
